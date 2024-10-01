@@ -1,0 +1,26 @@
+import * as alt from 'alt-client';
+alt.onServer("loadDefaultLocations", () => {
+    alt.loadDefaultIpls();
+    alt.removeIpl("rc12b_default");
+    alt.removeIpl("hei_yacht_heist");
+    alt.removeIpl("hei_yacht_heist_enginrm");
+    alt.removeIpl("hei_yacht_heist_enginrm_lod");
+    alt.removeIpl("hei_yacht_heist_Lounge");
+    alt.removeIpl("hei_yacht_heist_lounge_lod");
+    alt.removeIpl("hei_yacht_heist_lod");
+    alt.removeIpl("hei_yacht_heist_slod");
+    alt.removeIpl("hei_yacht_heist_Bridge");
+    alt.removeIpl("hei_yacht_heist_bridge_lod");
+    alt.removeIpl("hei_yacht_heist_Bar");
+    alt.removeIpl("hei_yacht_heist_bar_lod");
+    alt.removeIpl("hei_yacht_heist_Bedrm");
+    alt.removeIpl("hei_yacht_heist_bedrm_lod");
+    alt.removeIpl("hei_yacht_heist_DistantLights");
+    alt.removeIpl("hei_yacht_heist_LODLights");
+    alt.removeIpl("trevorstrailertidy");
+    alt.requestIpl("trevorstrailertrash");
+    alt.removeIpl("FIBlobbyfake");
+    alt.requestIpl("fiblobby");
+    alt.requestIpl("vw_dlc_casino_door");
+    alt.requestIpl("hei_dlc_casino_door");
+});

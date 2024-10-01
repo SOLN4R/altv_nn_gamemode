@@ -1,0 +1,44 @@
+[01:54:35] alt:V Server 16.2.13 (release)
+[01:54:35] Starting alt:V Server on [::]:7788
+[01:54:35] Loading resource chat
+[01:54:35] Loaded resource chat
+[01:54:35] Loading resource freeroam
+[01:54:35] Loaded resource freeroam
+[01:54:35] Loading resource EasyNoClip
+[01:54:35] Loaded resource EasyNoClip
+[01:54:35] Loading resource core
+[01:54:36] Loaded resource core
+[01:54:36] Loading resource locations
+[01:54:36] Loaded resource locations
+[01:54:36] Required server permissions:
+[01:54:36] Optional server permissions:
+[01:54:36] Starting HTTP server on [::]:7788
+[01:54:36] Main thread started (ThreadId: 12380)
+[01:54:36] EntityStreamer thread started (ThreadId: 3812)
+[01:54:36] SyncSend thread started (ThreadId: 14804)
+[01:54:36] SyncSend thread started (ThreadId: 5636)
+[01:54:36] SyncSend thread started (ThreadId: 13856)
+[01:54:36] SyncSend thread started (ThreadId: 1332)
+[01:54:36] SyncSend thread started (ThreadId: 16720)
+[01:54:36] SyncSend thread started (ThreadId: 16880)
+[01:54:36] SyncSend thread started (ThreadId: 6368)
+[01:54:36] SyncSend thread started (ThreadId: 13388)
+[01:54:36] NetworkWorker #1 thread started (ThreadId: 14272)
+[01:54:36] SyncReceive thread started (ThreadId: 9100)
+[01:54:36] SyncReceive thread started (ThreadId: 5528)
+[01:54:36] SyncReceive thread started (ThreadId: 13232)
+[01:54:36] SyncReceive thread started (ThreadId: 20664)
+[01:54:36] Console thread started (ThreadId: 14148)
+[01:54:36][Warning] Server started in debug mode
+[01:55:24][js] SOLN4R has leaved the server becauseof timed out
+[02:00:51] Stopping resource chat
+[02:00:51] Stopping resource core
+[02:00:51] Stopped resource core
+[02:00:51] Stopping resource freeroam
+[02:00:51] Stopped resource freeroam
+[02:00:51] Stopped resource chat
+[02:00:51] Stopping resource EasyNoClip
+[02:00:51] Stopped resource EasyNoClip
+[02:00:51] Stopping resource locations
+[02:00:51] Stopped resource locations
+[02:00:51] Server shutdown
