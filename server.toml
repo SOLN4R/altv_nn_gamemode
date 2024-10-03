@@ -6,14 +6,8 @@ announce = false
 # token = 'YOUR_TOKEN'
 gamemode = 'Freeroam'
 website = 'example.com'
-language = 'en'
+language = 'ru'
 description = 'alt:V Sample Server'
 modules = ['js-module', 'csharp-module', 'js-bytecode-module']
-resources = [
-    'chat',
-    'freeroam',
-    'EasyNoClip',
-    'core',
-    'locations'
-]
+resources = ['chat', 'freeroam', 'EasyNoClip', 'core', 'locations', 'fixes']
 debug = true
